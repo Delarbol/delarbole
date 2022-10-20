@@ -98,7 +98,7 @@ export default {
         {
           dialog: false,
           title: "This Site",
-          git: "https://github.com/EldinZaimovic/Eldin-Space-Vue",
+          git: "https://github.com/EldinZaimovic/delacruz",
           demo: "https://eldin.space/",
           tech: {
             tech1: "VUE",
