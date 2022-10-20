@@ -37,8 +37,8 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: |
-          yarn install
-          yarn run build
+          npm install
+          npm run build
 
       - name: Setup Pages 🛠
         uses: actions/configure-pages@v2
